@@ -48,10 +48,10 @@ streamlit run app.py
 This tool was created as a lightweight, hands-on way to explore how local large language models (LLMs) can reshape patient communication into structured medical notes.
 Rather than aiming for clinical deployment or publication, it's meant to serve as a practical sandbox for:
 
-🧪 Testing how different prompt styles affect output
-🩺 Exploring the shift from patient language to clinician documentation
-🤖 Prototyping AI-powered pre-charting tools or chatbot integrations
-💼 Showcasing prompt engineering and UI design in healthcare contexts
+🧪 Testing how different prompt styles affect output  
+🩺 Exploring the shift from patient language to clinician documentation  
+🤖 Prototyping AI-powered pre-charting tools or chatbot integrations  
+💼 Showcasing prompt engineering and UI design in healthcare contexts  
 It’s designed to be simple, local, and easy to adapt for your own curiosity or clinical AI projects.
 
 ---
