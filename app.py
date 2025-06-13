@@ -59,7 +59,7 @@ else:
     note_type = st.selectbox("Choose note format:", list(PROMPT_TEMPLATES.keys()), key="style")
 
 # User input
-user_input = st.text_area("Paste patient input:", height=150)
+user_input = st.text_area("Patient input:", height=150)
 st.session_state.user_input = user_input  # store input for later reuse
 
 # -------- LLM CALL -------- #

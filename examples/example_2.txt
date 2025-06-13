@@ -1,0 +1,15 @@
+Patient Input
+"I’ve been feeling super tired lately, like even after sleeping a full night. 
+Also my brain feels foggy during the day, like I can’t focus on stuff."
+
+Formal HPI
+"The patient reports experiencing persistent fatigue, despite obtaining a full night's sleep.
+Additionally, the patient describes cognitive fogginess throughout the day, 
+characterized by difficulty concentrating and maintaining focus on tasks."
+
+Patient Summary
+"Here's a summary of how I'm feeling:
+
+Lately, I've been experiencing extreme fatigue, even after getting a full night's sleep. 
+Additionally, I've noticed that my mind feels foggy and unclear throughout the day, 
+making it hard for me to focus and concentrate on things."

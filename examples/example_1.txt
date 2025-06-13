@@ -1,0 +1,16 @@
+Patient input
+"Sometimes I get this weird tight feeling in my chest when I walk up stairs,
+but it goes away when I sit down. It started like a week ago."
+
+Formal HPI
+"The patient reports experiencing an intermittent sensation of chest tightness that occurs with exertion, 
+specifically when walking up stairs. This symptom is reportedly alleviated with rest, 
+as sitting down leads to resolution of the discomfort. 
+The onset of this symptom was approximately one week prior to presentation."
+
+Patient Summary
+"Here's what's been going on with me: I've been experiencing a strange, 
+tight sensation in my chest when I exert myself, like when I'm walking up stairs. 
+The good news is that it goes away when I rest and sit down. 
+This started happening about a week ago, and I wanted to share it with my healthcare team to see what might be causing it."
+

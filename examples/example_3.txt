@@ -1,0 +1,17 @@
+Patient Input
+"I just haven’t been feeling like myself lately. 
+It’s hard to explain, but something feels off, not sick exactly, just not right."
+
+Formal HPI
+"The patient reports a recent and persistent sensation of being unwell, 
+although unable to specify a particular symptom or illness. 
+She describes a general feeling of being "off" and not herself, 
+characterized by a vague sense of unease rather than overt sickness. 
+The patient is unable to provide further details regarding the onset, duration, or exacerbating factors contributing to this sensation."
+
+Patient Summary
+"Here's a summary of how I'm feeling:
+
+Lately, I've been experiencing a general sense of unease and feeling out of sorts. 
+It's difficult for me to put into words, but I just don't feel like my usual self. 
+While I don't think I'm sick, something doesn't feel quite right, and I'm concerned about what might be causing it."
