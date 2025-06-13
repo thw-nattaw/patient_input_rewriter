@@ -54,7 +54,7 @@ Rather than aiming for clinical deployment or publication, it's meant to serve a
 💼 Showcasing prompt engineering and UI design in healthcare contexts
 It’s designed to be simple, local, and easy to adapt for your own curiosity or clinical AI projects.
 
---
+---
 ## ⚠️ Disclaimer
 
 This tool is for demonstration and research purposes only.
