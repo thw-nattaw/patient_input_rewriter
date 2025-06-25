@@ -34,8 +34,8 @@ pip install -r requirements.txt
 1. Clone the repository
 2. Start Ollama with a local model:
 ```bash
-ollama pull llama3
-ollama run llama3
+ollama pull llama3.3
+ollama run llama3.3
 ```
 
 3. Run the app:
